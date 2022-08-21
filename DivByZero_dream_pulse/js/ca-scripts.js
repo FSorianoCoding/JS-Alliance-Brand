@@ -30,7 +30,7 @@ function hideElement() {
     //<ul class="nav flex-row tm-social-links">  <!--todo: Hide social links-->
     //Links is for the entire row of socials, link (singular) is for each link so only need to worry about one class
     let socialNav = document.querySelector('.tm-social-links')
-    socialNav.style.visibility= 'hidden'
+    socialNav.style.visibility = 'hidden'
 
 };
 
